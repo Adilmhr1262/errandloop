@@ -1,0 +1,1 @@
+{"name":"errandloop","private":true,"scripts":{"test":"node --test tests/errandloop-unit.js"},"type":"module","version":"1.0.0"}
